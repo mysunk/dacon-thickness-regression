@@ -2,3 +2,5 @@ data
 etc
 result
 submit
+.idea
+__pycache__
